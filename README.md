@@ -10,6 +10,7 @@ erlanging 的个人博客
 
 ### 最新
 
+* [latke框架学习（一）](http://www.nonerror.cn/articles/2019/10/15/1571070873224.html)
 * [我在 GitHub 上的开源项目](http://www.nonerror.cn/my-github-repos)
 * [世界，你好！](http://www.nonerror.cn/hello-solo)
 
