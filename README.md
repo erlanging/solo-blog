@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [redis实战篇（一）](https://www.nonerror.cn/articles/2019/11/20/1574215871662.html)
 * [人性的弱点](https://www.nonerror.cn/articles/2019/11/14/1573739621268.html)
 
 
